@@ -11,18 +11,18 @@ code, results, and an interactive dashboard for the paper submitted to ICADCML 2
 > **Honesty note:** every result below is produced by the code in this repository, run on
 > synthetic data grounded in real statistics from the OULAD dataset. These are
 > simulation-based algorithmic findings, not evidence of real-world educational
-> effectiveness. See [Limitations](#limitations).
+> effectiveness. See [Limitations](#-limitations).
 
 ---
 
 ## 🚀 Live Dashboard
 
-**🔗 Try it here:** *`[ https://hystericalventure.github.io/scale-agentic-ai/]`*
+**🔗 Try it here:** [https://hystericalventure.github.io/scale-agentic-ai/](https://hystericalventure.github.io/scale-agentic-ai/)
 
 Or run it locally — no install needed:
 ```bash
 git clone <this-repo-url>
-open scale-agentic-ai/dashboard.html   # or just double-click the file
+open scale-agentic-ai/index.html   # or just double-click the file
 ```
 
 The dashboard lets you:
@@ -73,7 +73,7 @@ consent-respecting decisions for disabled and neurodivergent learners.
 
 > **No LLM is used or required.** All four agents operate on structured numeric data. The
 > architecture includes a planned "LLM Decision Layer" for free-text/voice input in a future
-> deployment — designed, not implemented. See [Architecture vs. implementation](#Architecture_vs_Implementation).
+> deployment — designed, not implemented. See [Architecture vs. implementation](#-architecture-vs-implementation).
 
 ---
 
@@ -91,7 +91,7 @@ consent-respecting decisions for disabled and neurodivergent learners.
 
 ```
 scale-agentic-ai/
-├── dashboard.html            # Interactive live dashboard — open this first
+├── index.html            # Interactive live dashboard — open this first
 ├── demo.py                   # Live narrated CLI demonstration
 ├── show_calculation.py       # Transparent walkthrough of how one headline number is computed
 ├── src/                      # All agent + environment + evaluation code
@@ -148,7 +148,7 @@ python3 show_calculation.py           # Transparent proof of how a result is cal
 2. Under "Build and deployment", set **Source: Deploy from a branch**
 3. Branch: **main**, folder: **/ (root)** → Save
 4. Wait 1-2 minutes, then your dashboard is live at:
-   `https://YOUR_USERNAME.github.io/scale-agentic-ai/dashboard.html`
+   `https://YOUR_USERNAME.github.io/scale-agentic-ai/index.html`
 5. Paste that link into the "Live Dashboard" section at the top of this README
 
 ---
