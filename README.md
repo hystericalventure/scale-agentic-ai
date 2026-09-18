@@ -73,7 +73,7 @@ consent-respecting decisions for disabled and neurodivergent learners.
 
 > **No LLM is used or required.** All four agents operate on structured numeric data. The
 > architecture includes a planned "LLM Decision Layer" for free-text/voice input in a future
-> deployment — designed, not implemented. See [Architecture vs. implementation](#architecture-vs-implementation).
+> deployment — designed, not implemented. See [Architecture vs. implementation](#Architecture_vs_Implementation).
 
 ---
 
@@ -181,7 +181,7 @@ parameters were added for rigor:
 | 4 | **Overload prediction lead time** | Mean 0.61 sessions of sustained prior warning; 27.8% of events get ≥1 session advance warning — reported honestly as a modest result |
 
 Full methodology and figures for each: see the **Evaluation Parameters** tab in
-`dashboard.html`, or `src/eval_*.py`.
+`index.html`, or `src/eval_*.py`.
 
 ---
 
@@ -220,13 +220,11 @@ Full discussion: [ARCHITECTURE.md](ARCHITECTURE.md)
 
 ## 📚 Citation
 
-If referencing this work, please cite the accompanying paper (ICADCML 2027, submission
-under review — manuscript not included in this repository while under double-blind review).
+If referencing this work, please cite
 
 ```
 Sharma, M. SCALE: A Consent-Aware Agentic AI Framework for Scaffolded,
-Disability-Inclusive Education. ICADCML 2027 (under review).
-```
+Disability-Inclusive Education. 
 
 ---
 
