@@ -58,7 +58,7 @@ def demo():
     history = []
     overload_count, accepts, proposals, breaks = 0, 0, 0, 0
 
-    N_SESSIONS_TO_SHOW = 8
+    N_SESSIONS_TO_SHOW = 10
     for session in range(N_SESSIONS_TO_SHOW):
         line()
         print(f"SESSION {session + 1}")
