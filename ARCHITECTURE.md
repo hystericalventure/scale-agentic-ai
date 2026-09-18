@@ -1,7 +1,7 @@
 # SCALE Architecture
 
 This document describes how SCALE is structured and why, with the actual diagrams used
-in the accompanying paper. For setup and usage, see the main [README](../README.md).
+in the accompanying paper. For setup and usage, see the main [README](README.md).
 
 ## The problem this addresses
 
