@@ -17,7 +17,7 @@ code, results, and an interactive dashboard for the paper submitted to ICADCML 2
 
 ## 🚀 Live Dashboard
 
-**🔗 Try it here:** *`[add your GitHub Pages link here after enabling Pages — see below]`*
+**🔗 Try it here:** *`[ https://hystericalventure.github.io/scale-agentic-ai/]`*
 
 Or run it locally — no install needed:
 ```bash
