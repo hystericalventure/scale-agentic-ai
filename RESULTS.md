@@ -145,4 +145,4 @@ without richer signals (e.g., physiological data).
 ## Limitations
 
 All results above are simulation-based algorithmic comparisons, not evidence of real-world
-educational effectiveness. See the main [README](../README.md#limitations) for the full list.
+educational effectiveness. See the main [README](README.md#limitations) for the full list.
