@@ -1,7 +1,0 @@
-disability_type,n_students,mean_reward,mean_overload_events,mean_final_mastery,mean_acceptance_rate
-Dyslexia,17,2.276,13.569,1.0,0.773
-Mixed,10,1.966,15.5,1.0,0.711
-ADHD,17,1.208,14.176,0.991,0.755
-Physical_Sensory,10,0.723,17.867,0.988,0.661
-ID,9,0.663,15.741,0.983,0.741
-ASD,17,0.324,16.196,0.974,0.705
