@@ -1,0 +1,4 @@
+condition,mean_sessions_to_mastery,pct_reached_threshold
+push_only,12.85,100.0
+rule_based,24.65,100.0
+scale_full,15.55,100.0

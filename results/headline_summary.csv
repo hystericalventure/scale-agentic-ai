@@ -1,0 +1,6 @@
+,mean_reward,mean_reward,mean_overload_events,mean_overload_events,mean_final_mastery,mean_final_mastery,mean_acceptance_rate,mean_acceptance_rate,mean_breaks_triggered,mean_breaks_triggered
+,mean,std,mean,std,mean,std,mean,std,mean,std
+condition,,,,,,,,,,
+push_only,4.907,0.114,13.929,0.295,1.0,0.0,1.0,0.0,9.246,0.14
+rule_based,-3.483,0.07,23.158,0.225,0.817,0.005,1.0,0.0,0.0,0.0
+scale_full,0.731,0.283,15.188,0.296,0.988,0.006,0.708,0.004,10.821,0.217
