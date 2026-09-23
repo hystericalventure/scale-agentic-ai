@@ -206,7 +206,7 @@ the existing agent functions as tools — listed as future work.
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 - All results are simulation-based; no real students, teachers, or IEP data were used
 - OULAD provides only a binary disability flag, not sub-types, and does not distinguish SLD
