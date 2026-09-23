@@ -163,7 +163,7 @@ during training. Reported as mean ± standard deviation across multiple random s
 | Condition | Mean reward | Mean overload events | Mean final mastery | Acceptance rate |
 |---|---|---|---|---|
 | **SCALE (full system)** | 0.731 ± 0.283 | 15.188 ± 0.296 | 0.988 ± 0.006 | 70.8% ± 0.4% |
-| Rule-based baseline | -3.483 ± 0.070 | 23.158 ± 0.225 | 0.817 ± 0.005 | n/a |
+| Rule-based baseline | -3.483 ± 0.070  | 23.158 ± 0.225 | 0.817 ± 0.005 | n/a |
 | Push-only (no consent) | 4.907 ± 0.114 | 13.929 ± 0.295 | 1.000 ± 0.000 | n/a |
 
 Full breakdown, per-agent results, and figures: [RESULTS.md](RESULTS.md)
