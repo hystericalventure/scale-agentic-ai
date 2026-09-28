@@ -223,7 +223,7 @@ for the full layer-by-layer input/output breakdown.
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 - All results are simulation-based; no real students, teachers, or IEP data were used
 - OULAD provides only a binary disability flag, not sub-types, and does not distinguish SLD
