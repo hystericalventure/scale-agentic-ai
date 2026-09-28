@@ -12,7 +12,7 @@ interactive dashboard for the paper submitted to ICADCML 2027.
 > **Honesty note:** every result below is produced by the code in this repository, run on
 > synthetic data grounded in real statistics from the OULAD dataset. These are
 > simulation-based algorithmic findings, not evidence of real-world educational
-> effectiveness. See [Limitations](#-limitations).
+> effectiveness. See [Limitations](#limitations).
 
 ---
 
@@ -223,7 +223,7 @@ for the full layer-by-layer input/output breakdown.
 
 ---
 
-## Limitations
+##  Limitations
 
 - All results are simulation-based; no real students, teachers, or IEP data were used
 - OULAD provides only a binary disability flag, not sub-types, and does not distinguish SLD
